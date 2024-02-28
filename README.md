@@ -1,7 +1,7 @@
-# Console Application with MS.NET 6.0
+# Longest increasing consective subsequence finder Application with MS.NET 6.0
 
 ## Overview
-This is a simple console application built using MS.NET 6.0. The application demonstrates basic console input and output operations.
+This is a simple console application built using MS.NET 6.0. The application outputs the longest increasing consective subsequence (increased by any number) present in that sequence.
 
 ## Getting Started
 To build and run this application, make sure you have the .NET 6.0 SDK installed on your system. You can download it from [here](https://dotnet.microsoft.com/download/dotnet/6.0).
